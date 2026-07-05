@@ -1,3 +1,5 @@
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.21202864-blue)](https://doi.org/10.5281/zenodo.21202864) [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 ## UPDSF v4.4: Unified Prebiotic DNA Selection Framework Strictly Empirical Simulation of Chemical Darwinism
 
 Environment: 🐍 Python 3.8+
@@ -70,7 +72,7 @@ By using strictly empirical Arrhenius rates, UPDSF v4.4 shows that the "Thymine 
 
 ## Installation & Usage
 
-Clone the repository and install the dependencies: git clone https://github.com/mrhashemi2000/UPDSF_v3_1.git cd UPDSF_v3_1
+Clone the repository and install the dependencies: git clone https://github.com/mrhashemi2000/UPDSF_v4.4.git cd UPDSF_v4.4
 
 ### Prerequisites
 pip install numpy matplotlib seaborn scipy pandas
@@ -84,6 +86,6 @@ This project utilizes a recursive collaboration between human reasoning and AI-a
 
 ## Citation
 If you use this framework in your research, please cite it as:
-> Hashemi, S. M. R. (2026). UPDSF v4.4: Unified Prebiotic DNA Selection Framework - Strictly Empirical Parameters. Zenodo. https://doi.org/10.5281/zenodo.20825578
+> Reza Hashemi. (2026). mrhashemi2000/UPDSF_v4.4.py: Initial release. Zenodo. https://doi.org/10.5281/zenodo.21202864
 
 
