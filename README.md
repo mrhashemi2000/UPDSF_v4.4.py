@@ -1,2 +1,89 @@
-# UPDSF_v4.4.py
-UPDSF v4.4: Unified Prebiotic DNA Selection Framework Strictly Empirical Simulation of Chemical Darwinism
+## UPDSF v4.4: Unified Prebiotic DNA Selection Framework Strictly Empirical Simulation of Chemical Darwinism
+
+Environment: 🐍 Python 3.8+
+
+## Author: Seyed Mohammad Reza Hashemi (Reza Hashemi)
+
+## ORCID:0009-0002-0645-5180
+
+https://doi.org/10.5281/zenodo.17273763
+
+https://doi.org/10.5281/zenodo.18137476
+
+https://doi.org/10.5281/zenodo.18092867
+
+https://doi.org/10.5281/zenodo.18080826
+
+https://doi.org/10.5281/zenodo.20988680
+
+https://doi.org/10.5281/zenodo.20825578
+
+https://doi.org/10.5281/zenodo.20733760
+
+https://doi.org/10.5281/zenodo.20759622
+
+https://doi.org/10.5281/zenodo.20771213
+
+https://doi.org/10.5281/zenodo.18594133
+
+
+## Overview
+UPDSF v4.4 is a high-fidelity computational engine designed to model the chemical selection and evolutionary dominance of DNA nucleotides (specifically Thymine) under prebiotic conditions. Developed by Seyed Mohammad Reza Hashemi, this framework operates under the Matter World Hypothesis (MWH) and represents a case study in Intelligence-Augmented (IA) Science.
+
+Unlike theoretical models, v4.4 is strictly empirical, utilizing kinetic parameters, activation energies ($E_a$), and half-lives derived exclusively from peer-reviewed prebiotic chemistry literature.
+
+
+## The Scientific Core: 
+
+Non-Enzymatic Transition (U → T)
+The central breakthrough of UPDSF v4.4 is demonstrating the spontaneous chemical selection of Thymine over Uracil in prebiotic DNA. 
+
+### Chemical Darwinism vs. Biological Enzymes
+
+In modern biology, the presence of Thymine in DNA and its distinction from Uracil is maintained by complex enzymes (like Uracil-DNA Glycosylase). However, the Matter World Hypothesis (MWH)* argues that this selection occurred long before the emergence of proteins. 
+
+This framework proves through *Chemical Darwinism that:
+1.  Thermal Selection: Under high-temperature prebiotic conditions (55°C - 85°C), Uracil-bearing polymers suffer from a lower activation energy barrier ($E_a \approx 27$ kcal/mol) for hydrolysis, leading to rapid informational decay.
+2.  The Methyl Advantage: The addition of the methyl group in Thymine ($E_a \approx 32$ kcal/mol) provides a 5 kcal/mol "stability premium." In a molecular mixture, this acts as a natural selection filter, where T-DNA strands survive and accumulate while U-DNA strands are chemically "extinguished."
+3.  Spontaneous Code Purification: The high rate of Cytosine-to-Uracil deamination (36x faster than other mutations) creates a "noise crisis" in early genetic systems. The simulation shows that the transition to Thymine was a physicochemical necessity to distinguish permanent genetic information from ongoing chemical noise, achieving "code purity" without a single enzyme.
+
+### Empirical Evidence in Silico
+
+By using strictly empirical Arrhenius rates, UPDSF v4.4 shows that the "Thymine Dominance" is not a biological accident, but a deterministic outcome of prebiotic thermodynamics.
+
+## Key Scientific Features
+
+- Empirical Arrhenius Kinetics: Calibrated using Lindahl (1993) and Cleaves (2010) to model hydrolysis and deamination.
+- Deamination Modeling: Includes the verified 36x higher deamination rate of Cytosine to Uracil (Shen et al., 1994).
+- UV Photostability: Models the 3-4x higher UV resistance of Thymine compared to Uracil (Ravanat & Cadet, 1995).
+- Polymer Physics: Incorporates persistence length, contour length, and conformational dynamics for long-chain stability.
+- Langevin Dynamics: Simulates Brownian forces and thermal fluctuations to model real-world environmental turbulence.
+- 2D Sensitivity Analysis: Optimization of Nucleotide Enrichment across a Temperature × pH gradient.
+
+## Core Literature Calibration
+| Parameter | Source | Value/Ratio |
+| :--- | :--- | :--- |
+| DNA Stability | Lindahl (1993) | $E_a \approx 32$ kcal/mol |
+| Cytosine Deamination | Shapiro (1999) | pH-dependent curves |
+| Prebiotic Clay Catalysis | Ferris (1996) | Enhanced polymerization rates |
+| UV Resistance (T/U) | Ravanat (1995) | ~3.6x advantage for T |
+
+## Installation & Usage
+
+Clone the repository and install the dependencies: git clone https://github.com/mrhashemi2000/UPDSF_v3_1.git cd UPDSF_v3_1
+
+### Prerequisites
+pip install numpy matplotlib seaborn scipy pandas
+
+### Running the Simulation
+python UPDSF_v4.4.py
+The script will perform a 2D sensitivity analysis and run an optimal time-series simulation, saving results in the `output_data_v44/` directory.
+
+## Methodology: IA-Augmented Discovery
+This project utilizes a recursive collaboration between human reasoning and AI-assisted modeling. The framework evolves through continuous feedback loops, allowing for rapid interdisciplinary discovery at the intersection of astrobiology, physical chemistry, and computational physics.
+
+## Citation
+If you use this framework in your research, please cite it as:
+> Hashemi, S. M. R. (2026). UPDSF v4.4: Unified Prebiotic DNA Selection Framework - Strictly Empirical Parameters. Zenodo. https://doi.org/10.5281/zenodo.20825578
+
+
