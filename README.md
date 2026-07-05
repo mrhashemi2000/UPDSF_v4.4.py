@@ -70,16 +70,21 @@ By using strictly empirical Arrhenius rates, UPDSF v4.4 shows that the "Thymine 
 | Prebiotic Clay Catalysis | Ferris (1996) | Enhanced polymerization rates |
 | UV Resistance (T/U) | Ravanat (1995) | ~3.6x advantage for T |
 
-## Installation & Usage
+## 
+## Installation & Setup
 
-Clone the repository and install the dependencies: git clone https://github.com/mrhashemi2000/UPDSF_v4.4.git cd UPDSF_v4.4
+To run the UPDSF v4.4 simulation on your local machine, follow these steps:
 
-### Prerequisites
-pip install numpy matplotlib seaborn scipy pandas
-
-### Running the Simulation
-python UPDSF_v4.4.py
-The script will perform a 2D sensitivity analysis and run an optimal time-series simulation, saving results in the `output_data_v44/` directory.
+1. Clone the repository:
+   git clone https://github.com/mrhashemi2000/UPDSF_v4.4.git
+   cd UPDSF_v4.4
+   
+2. Install the dependencies:
+   It is recommended to use a virtual environment. You can install all required libraries using the provided `requirements.txt` file:
+   pip install -r requirements.txt
+   
+3. Run the simulation:
+   python UPDSF_v4.4.py
 
 ## Methodology: IA-Augmented Discovery
 This project utilizes a recursive collaboration between human reasoning and AI-assisted modeling. The framework evolves through continuous feedback loops, allowing for rapid interdisciplinary discovery at the intersection of astrobiology, physical chemistry, and computational physics.
