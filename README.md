@@ -93,4 +93,12 @@ This project utilizes a recursive collaboration between human reasoning and AI-a
 If you use this framework in your research, please cite it as:
 > Reza Hashemi. (2026). mrhashemi2000/UPDSF_v4.4.py: Initial release. Zenodo. https://doi.org/10.5281/zenodo.21202864
 
+## REFERENCES:
+    - Lindahl, T. (1993). Nature, 362, 709-715. (DNA stability)
+    - Shapiro, R. (1999). Chem. Rev., 99, 2501-2536. (Deamination)
+    - Cleaves, H.J. (2010). Astrobiology, 10, 337-346. (Prebiotic chemistry)
+    - Ravanat, J.L. (1995). J. Biol. Chem., 270, 12305-12311. (UV damage)
+    - Shen, J.C. (1994). Biochemistry, 33, 10756-10764. (Cytosine deamination)
+    - Ferris, J.P. (1996). Orig. Life Evol. Biosph., 26, 449-461. (Clay catalysis)
+
 
