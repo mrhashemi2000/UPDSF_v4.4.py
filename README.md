@@ -76,7 +76,7 @@ By using strictly empirical Arrhenius rates, UPDSF v4.4 shows that the "Thymine 
 To run the UPDSF v4.4 simulation on your local machine, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/mrhashemi2000/UPDSF_v4.4.git
+   git clone https://github.com/mrhashemi2000/UPDSF_v4.4.py.git
    cd UPDSF_v4.4
    
 2. Install the dependencies:
