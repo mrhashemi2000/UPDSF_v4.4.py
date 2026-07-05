@@ -28,6 +28,10 @@ https://doi.org/10.5281/zenodo.20771213
 
 https://doi.org/10.5281/zenodo.18594133
 
+https://doi.org/10.5281/zenodo.17280179
+
+https://doi.org/10.5281/zenodo.17964430
+
 
 ## Overview
 UPDSF v4.4 is a high-fidelity computational engine designed to model the chemical selection and evolutionary dominance of DNA nucleotides (specifically Thymine) under prebiotic conditions. Developed by Seyed Mohammad Reza Hashemi, this framework operates under the Matter World Hypothesis (MWH) and represents a case study in Intelligence-Augmented (IA) Science.
