@@ -88,7 +88,7 @@ To run the UPDSF v4.4 simulation on your local machine, follow these steps:
    pip install -r requirements.txt
    
 3. Run the simulation:
-   python UPDSF_v4.4.py
+   python UPDSF v4.4_main.py
 
 ## Methodology: IA-Augmented Discovery
 This project utilizes a recursive collaboration between human reasoning and AI-assisted modeling. The framework evolves through continuous feedback loops, allowing for rapid interdisciplinary discovery at the intersection of astrobiology, physical chemistry, and computational physics.
